@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,39 +8,34 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Smooth waters run deep.</h2></summary>
   </ul>
 </div>
 
-
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+
+- 🔭 I’m currently working on **Python, C, C++, C#, Unity, Javascript**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I've keen interest in AI. So,I'm learning **LLM Models**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write articles on [Data D](https://datad.tistory.com/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **Python, C, C++, C#, Unity, Javascript**
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 📫 Feel free to reach me out **kevin.park@daddyslab.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -72,10 +66,8 @@
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -89,7 +81,6 @@
     <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
-
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -109,7 +100,6 @@
   
 </p>
 
-
 <!--profile visit count-->
 <div align="center">
   
@@ -117,11 +107,11 @@
   
 </div>
 
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
+---
+
 Credit: [1010nishant](https://github.com/1010nishant)
 
 Last Edited on: 29/4/2023
