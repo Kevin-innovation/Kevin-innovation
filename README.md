@@ -109,5 +109,5 @@
 <!-- 푸터 -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
-  <p>© 2024 DLAB_Kevin | Last Updated on: 27/03/2024</p>
+  <p>© 2025 DLAB_Kevin | Last Updated on: 27/03/2025</p>
 </div>
