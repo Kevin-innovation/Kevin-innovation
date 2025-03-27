@@ -111,3 +111,171 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider" />
   <p>© 2025 DLAB_Kevin | Last Updated on: 27/03/2025</p>
 </div>
+<!-- 트로피 섹션 -->
+<h2>🏆 GitHub 트로피</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kevin-innovation&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  </a>
+</p>
+
+<!-- GitHub 스탯 카드 -->
+<h2>📊 GitHub 통계</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-innovation&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-innovation&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Streak" width="48%" />
+</p>
+
+<!-- 사용 언어 통계 -->
+<h2>💻 주로 사용하는 언어</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-innovation&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- 최근 활동 -->
+<h2>📘 최근 GitHub 활동</h2>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Kevin-innovation&theme=react-dark)
+
+<!-- 최근 블로그 포스트 -->
+<h2>📝 최근 블로그 포스트</h2>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- 기술 워드 클라우드 -->
+<h2>☁️ 기술 워드 클라우드</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem-Solver-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative-Coder-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Game-Developer-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Engineer-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Practitioner-yellow?style=for-the-badge" />
+</p>
+
+<!-- 현재 작업 중인 프로젝트 -->
+<h2>🔭 현재 작업 중인 프로젝트</h2>
+<p align="center">
+  <a href="https://github.com/Kevin-innovation/ai-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-innovation&repo=ai-project&theme=tokyonight" alt="AI Project" />
+  </a>
+  <a href="https://github.com/Kevin-innovation/game-dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kevin-innovation&repo=game-dev&theme=tokyonight" alt="Game Development" />
+  </a>
+</p>
+
+<!-- 스킬 진행 바 -->
+<h2>🧠 스킬 진행도</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-80%25-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-95%25-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Dev-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<!-- 코드 시간 통계 -->
+<h2>⏱️ 주간 코딩 시간</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kevin-innovation&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
+</p>
+
+<!-- 스포티파이 현재 듣는 음악 -->
+<h2>🎵 개발하면서 듣는 음악</h2>
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" alt="Spotify" />
+  </a>
+</p>
+
+<!-- 소셜 미디어 아이콘 -->
+<h2>🌐 소셜 미디어</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-channel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/your-server" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+<!-- AI 프로젝트 쇼케이스 -->
+<h2>🤖 AI 프로젝트 쇼케이스</h2>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">GPT 통합 웹 앱</h3>
+      <p align="center">
+        <a href="https://github.com/Kevin-innovation/gpt-web-app" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0D1117/FFFFFF?text=GPT+Web+App" width="400" alt="GPT Web App">
+        </a>
+        <p align="center">
+          OpenAI의 GPT 모델을 활용한 강력한 웹 애플리케이션
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">이미지 생성 도구</h3>
+      <p align="center">
+        <a href="https://github.com/Kevin-innovation/image-generator" target="_blank">
+          <img src="https://via.placeholder.com/400x200/0D1117/FFFFFF?text=Image+Generator" width="400" alt="Image Generator">
+        </a>
+        <p align="center">
+          Stable Diffusion 기반 고품질 이미지 생성 도구
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- 동적 SVG 배너 -->
+<h2>✨ 나만의 배너</h2>
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DLAB_Kevin&width=800&height=100" alt="DLAB Kevin Banner" />
+</p>
+
+<!-- 뱀 게임 커밋 차트 -->
+<h2>🐍 커밋 활동</h2>
+<img src="https://github.com/Kevin-innovation/Kevin-innovation/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<!-- 방문자 지역 통계 -->
+<h2>🌎 방문자 지역</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Kevin-innovation/count.svg" alt="Visitor Count" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Kevin-innovation&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- GitHub 리포지토리 방문자 배지 -->
+<h2>👁️ 리포지토리 방문자</h2>
+<p align="center">
+  <a href="https://github.com/Kevin-innovation/ai-project">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Kevin-innovation.ai-project" alt="AI Project Visitors" />
+  </a>
+  <a href="https://github.com/Kevin-innovation/game-dev">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Kevin-innovation.game-dev" alt="Game Dev Visitors" />
+  </a>
+</p>
+
+<!-- 애니메이션 텍스트 배너 -->
+<h2>📢 오늘의 메시지</h2>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+%EB%8A%94+%ED%95%98%EB%A3%A8%EC%97%90+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84+%EA%B2%83%EC%9D%B4+%EC%95%84%EB%8B%88%EB%8B%A4;%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%9D%84+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EC%9E%90;%EA%B3%B5%ED%95%99%EC%9D%80+%EC%82%AC%EB%9E%8C%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B2%83%EC%9D%B4%EB%8B%A4" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 크레딧 -->
+<h2>📋 참고</h2>
+<p align="center">
+  ⭐ GitHub 프로필을 예쁘게 꾸미는 데 도움이 된다면 별표를 눌러주세요! ⭐
+</p>
