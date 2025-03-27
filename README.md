@@ -41,23 +41,7 @@
   </details>
 </div>
 
-<!-- 통계 섹션 -->
-<div align="center">
-  <details open>
-    <summary><h2>📊 GitHub Analytics</h2></summary>
-    <p align="center">
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kevin-innovation&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-innovation&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-    </p>
-    
-  <!-- GitHub 트로피 -->
-    <p align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Kevin-innovation&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&no-bg=true" alt="Kevin-innovation trophies" />
-      </a>
-    </p>
-  </details>
-</div>
+<!-- 통계 섹션 삭제됨 -->
 
 <!-- 기술 스택 -->
 <div align="center">
