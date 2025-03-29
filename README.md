@@ -88,7 +88,7 @@
 
 
 <!-- 사용 언어 통계 -->
-<h2>💻 주로 사용하는 언어</h2>
+<h2>💻 Main Language</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-innovation&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
@@ -96,7 +96,7 @@
 
 
 <!-- 기술 워드 클라우드 -->
-<h2>☁️ 기술 워드 클라우드</h2>
+<h2>☁️ Tech Cloud</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problem-Solver-blue?style=for-the-badge" />
@@ -111,7 +111,7 @@
 
 
 <!-- 스킬 진행 바 -->
-<h2>🧠 스킬 진행도</h2>
+<h2>🧠 Skill Bar</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -122,7 +122,7 @@
 
 
 <!-- 동적 SVG 배너 -->
-<h2>✨ 나만의 배너</h2>
+<h2>✨ Banner</h2>
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=DLAB_Kevin&width=800&height=100" alt="DLAB Kevin Banner" />
 </p>
@@ -130,7 +130,7 @@
 
 
 <!-- 방문자 지역 통계 -->
-<h2>🌎 방문자 지역</h2>
+<h2>🌎 Today</h2>
 <p align="center">
   <img src="https://profile-counter.glitch.me/Kevin-innovation/count.svg" alt="Visitor Count" />
   <br>
@@ -140,7 +140,7 @@
 
 
 <!-- 애니메이션 텍스트 배너 -->
-<h2>📢 오늘의 메시지</h2>
+<h2>📢 Quotes</h2>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+%EB%8A%94+%ED%95%98%EB%A3%A8%EC%97%90+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84+%EA%B2%83%EC%9D%B4+%EC%95%84%EB%8B%88%EB%8B%A4;%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%9D%84+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EC%9E%90;%EA%B3%B5%ED%95%99%EC%9D%80+%EC%82%AC%EB%9E%8C%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B2%83%EC%9D%B4%EB%8B%A4" alt="Typing SVG" />
