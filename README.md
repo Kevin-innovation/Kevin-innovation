@@ -19,15 +19,15 @@
 
 <!-- 소개 섹션 -->
 <h2>📝 About Me</h2>
-<p>I'm a developer exploring the intersection of AI and software development with over a decade of programming experience.</p>
+<p>🔹 Developer at the crossroads of AI and software with 10+ years of experience.</p>
 
-<p>I specialize in integrating LLM technologies, game development, and designing scalable architectures, currently working with Python, C, C++, C#, Unity, and JavaScript.</p>
+<p>🔹 Expert in LLM integration, game dev, and scalable architecture using Python, C++, and JavaScript.</p>
 
-<p>As an AI technology expert at DLAB, I develop innovative solutions while embracing my philosophy that "technology exists to serve humanity."</p>
+<p>🔹 Creating innovative AI solutions at DLAB with a human-centered tech philosophy.</p>
 
-<p>I share technical insights on my Data D blog and welcome questions about AI, game development, and backend systems.</p>
+<p>🔹 Sharing insights on Data D blog, open to discussions about AI and backend systems.</p>
 
-<p>I thrive on collaboration and continuous learning—let's build something remarkable together.</p>
+<p>🔹 Passionate about collaboration and growth—ready to build something extraordinary.</p>
 
 <!-- 기술 스택 -->
 <h2>⚡ Tech Stack</h2>
