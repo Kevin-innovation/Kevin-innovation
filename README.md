@@ -3,7 +3,7 @@
 
 <!-- 프로필 헤더 -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+DLAB_Kevin+%F0%9F%91%8B;AI+%26+Software+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Kevin+%F0%9F%91%8B;AI+%26+Software+Developer;Creative+Problem+Solver" alt="Typing SVG" />
   
   <h3 align="center">『 Smooth waters run deep. 』</h3>
   
@@ -19,31 +19,17 @@
 
 <!-- 소개 섹션 -->
 <h2>📝 About Me</h2>
-<p>안녕하세요! 저는 AI와 소프트웨어 개발의 경계를 탐험하는 개발자입니다. 10년 이상의 프로그래밍 경험을 바탕으로, 기술이 우리 삶을 개선하는 방식에 깊은 관심을 가지고 있습니다.</p>
+<p>I'm a developer exploring the intersection of AI and software development with over a decade of programming experience.</p>
 
-<p>✨ <b>전문 분야:</b> 최신 LLM 기술 통합, 게임 개발, 확장 가능한 아키텍처 설계</p>
+<p>I specialize in integrating LLM technologies, game development, and designing scalable architectures, currently working with Python, C, C++, C#, Unity, and JavaScript.</p>
 
-<p>🔭 현재 <b>Python, C, C++, C#, Unity, Javascript</b> 기술 스택으로 작업 중</p>
+<p>As an AI technology expert at DLAB, I develop innovative solutions while embracing my philosophy that "technology exists to serve humanity."</p>
 
-<p>🌱 <b>Hyper Beast Stack</b>을 활용한 확장성 높은 애플리케이션 개발 학습 중</p>
+<p>I share technical insights on my Data_D blog and welcome questions about AI, game development, and backend systems.</p>
 
-<p>🤖 <b>GPT, Claude, Llama, Stable Diffusion</b> 등 AI 기술 전문가</p>
+<p>I thrive on collaboration and continuous learning—let's build something remarkable together.</p>
 
-<p>🚀 DLAB에서 <b>혁신적인 AI 솔루션</b>을 개발하며 미래 기술 주도</p>
-
-<p>📊 데이터 기반 의사결정과 문제 해결을 사랑합니다</p>
-
-<p>🌐 <b>"기술은 사람을 위해 존재한다"</b>는 철학을 가지고 있습니다</p>
-
-<p>🔍 항상 새로운 도전과 배움을 추구하며, 끊임없이 성장하고 있습니다</p>
-
-<p>📝 <a href="https://datad.tistory.com/">Data D</a> 블로그에서 기술적 인사이트 공유 중</p>
-
-<p>💬 <b>AI, 게임 개발, 백엔드 시스템</b> 관련 질문 환영합니다</p>
-
-<p>🤝 열린 마음으로 협업하는 것을 좋아합니다. 함께 일해보세요!</p>
-
-<p>📫 연락처: <b>kevin.park@daddyslab.com</b></p>
+<p>📫 E-mail: <b>kevin.park@daddyslab.com</b></p>
 
 <!-- 기술 스택 -->
 <h2>⚡ Tech Stack</h2>
