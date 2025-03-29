@@ -19,7 +19,7 @@
 
 <!-- 소개 섹션 -->
 <h2>📝 About Me</h2>
-<p>🔹 신기창은 바보입니다..</p>
+
 <p>🔹 Developer at the crossroads of AI and software with 10+ years of experience.</p>
 
 <p>🔹 Expert in LLM integration, game dev, and scalable architecture using Python, C++, and JavaScript.</p>
