@@ -25,11 +25,9 @@
 
 <p>As an AI technology expert at DLAB, I develop innovative solutions while embracing my philosophy that "technology exists to serve humanity."</p>
 
-<p>I share technical insights on my Data_D blog and welcome questions about AI, game development, and backend systems.</p>
+<p>I share technical insights on my Data D blog and welcome questions about AI, game development, and backend systems.</p>
 
 <p>I thrive on collaboration and continuous learning—let's build something remarkable together.</p>
-
-<p>📫 E-mail: <b>kevin.park@daddyslab.com</b></p>
 
 <!-- 기술 스택 -->
 <h2>⚡ Tech Stack</h2>
