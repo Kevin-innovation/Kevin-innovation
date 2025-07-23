@@ -45,6 +45,19 @@
   </h2>
 </div>
 
+<h3>AI Engineering Excellence</h3>
+<p>
+  <img src="https://img.shields.io/badge/Context_Engineering-Expert-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Context Engineering" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-4CAF50?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI_Driven_Development-Specialist-6A5ACD?style=flat-square&logo=openai&logoColor=white" alt="AI Driven Development" />
+</p>
+
+<p align="center">
+  <i>🤖 Bridging human creativity with AI capabilities through advanced context and prompt engineering</i><br>
+  <i>💡 Specialized in crafting intelligent systems that augment human potential</i><br>
+  <i>🔮 Transforming complex requirements into precise AI-driven solutions</i>
+</p>
+
 <h3>Programming Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -139,35 +152,17 @@
   </p>
 </div>
 
-<!-- GitHub 통계 -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="30px">
-    GitHub Stats
-  </h2>
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kevin-innovation&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Kevin-innovation github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevin-innovation&hide_border=true&theme=tokyonight&background=0D1117&stroke=6A5ACD&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="Kevin-innovation github streaks" />
-</div>
-
 <!-- 방문자 카운터 -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/heyP6XhQYt2De/giphy.gif" width="30px" height="30px">
     Visitors
   </h2>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevin-innovation&count_bg=%236A5ACD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=true" alt="Visitors Count"/>
-</div>
-
-<!-- 애니메이션 텍스트 배너 -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px" height="30px">
-    Quotes
-  </h2>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+%EB%8A%94+%ED%95%98%EB%A3%A8%EC%97%90+%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84+%EA%B2%83%EC%9D%B4+%EC%95%84%EB%8B%88%EB%8B%A4;%EC%83%88%EB%A1%9C%EC%9A%B4+%EA%B8%B0%EC%88%A0%EC%9D%84+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EC%9E%90;%EA%B3%B5%ED%95%99%EC%9D%80+%EC%82%AC%EB%9E%8C%EC%9D%84+%EC%9C%84%ED%95%9C+%EA%B2%83%EC%9D%B4%EB%8B%A4" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kevin-innovation.Kevin-innovation" alt="Visitors Badge"/>
+    <img src="https://img.shields.io/github/followers/Kevin-innovation?label=Followers&style=flat-square&color=6A5ACD" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/Kevin-innovation?label=Stars&style=flat-square&color=6A5ACD" alt="Stars"/>
+  </p>
 </div>
 
 <!-- 푸터 -->
