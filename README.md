@@ -181,7 +181,7 @@
     Visitors
   </h2>
   <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kevin-innovation.Kevin-innovation" alt="Visitors Badge"/>
+    <img src="https://profile-counter.glitch.me/Kevin-innovation/count.svg" alt="Visitors Badge"/>
     <img src="https://img.shields.io/github/followers/Kevin-innovation?label=Followers&style=flat-square&color=6A5ACD" alt="Followers"/>
     <img src="https://img.shields.io/github/stars/Kevin-innovation?label=Stars&style=flat-square&color=6A5ACD" alt="Stars"/>
   </p>
@@ -190,6 +190,5 @@
 <!-- 푸터 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" />
-  <p>© 2025 DLAB_Kevin | Last Updated on: 27/03/2025</p>
 </div>
 
