@@ -181,7 +181,7 @@
     Visitors
   </h2>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/Kevin-innovation/count.svg" alt="Visitors Badge"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kevin-innovation.Kevin-innovation&left_color=gray&right_color=6A5ACD&left_text=Profile%20Views&format=true&total_count=815" alt="Visitors Badge"/>
     <img src="https://img.shields.io/github/followers/Kevin-innovation?label=Followers&style=flat-square&color=6A5ACD" alt="Followers"/>
     <img src="https://img.shields.io/github/stars/Kevin-innovation?label=Stars&style=flat-square&color=6A5ACD" alt="Stars"/>
   </p>
