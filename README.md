@@ -33,6 +33,22 @@
 
 <p>🔹 Creating innovative AI solutions at DLAB with a human-centered tech philosophy.</p>
 
+<p>🔹 Advanced practitioner in AI development environments:</p>
+<ul>
+  <li>• Context Engineering specialist with Claude, GPT-4, and Gemini</li>
+  <li>• Extensive experience with AI CLI tools: Anthropic Claude CLI, OpenAI CLI, Google AI CLI</li>
+  <li>• Successfully launched multiple AI-powered products and developer tools</li>
+  <li>• Proficient in modern AI-augmented IDEs: Cursor, GitHub Copilot, Amazon CodeWhisperer</li>
+</ul>
+
+<p>🔹 Track record of delivering:</p>
+<ul>
+  <li>• Custom LLM integration solutions for enterprise clients</li>
+  <li>• AI-powered developer productivity tools and extensions</li>
+  <li>• Context-aware code generation and analysis systems</li>
+  <li>• Automated code review and optimization platforms</li>
+</ul>
+
 <p>🔹 Sharing insights on Data D blog, open to discussions about AI and backend systems.</p>
 
 <p>🔹 Passionate about collaboration and growth—ready to build something extraordinary.</p>
@@ -45,17 +61,23 @@
   </h2>
 </div>
 
+<div align="center">
+  <h3 style="font-size: 1.5em; margin: 20px 0;">
+    Advancing the synergy between human expertise and artificial intelligence
+  </h3>
+  <h4 style="font-size: 1.2em; color: #666; margin: 15px 0;">
+    Architecting next-generation systems that elevate human capabilities
+  </h4>
+  <h4 style="font-size: 1.2em; color: #666; margin: 15px 0;">
+    Delivering precision-engineered solutions for complex technological challenges
+  </h4>
+</div>
+
 <h3>AI Engineering Excellence</h3>
 <p>
   <img src="https://img.shields.io/badge/Context_Engineering-Expert-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Context Engineering" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-4CAF50?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/AI_Driven_Development-Specialist-6A5ACD?style=flat-square&logo=openai&logoColor=white" alt="AI Driven Development" />
-</p>
-
-<p align="center">
-  <i>🤖 Bridging human creativity with AI capabilities through advanced context and prompt engineering</i><br>
-  <i>💡 Specialized in crafting intelligent systems that augment human potential</i><br>
-  <i>🔮 Transforming complex requirements into precise AI-driven solutions</i>
 </p>
 
 <h3>Programming Languages</h3>
