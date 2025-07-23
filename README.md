@@ -35,18 +35,18 @@
 
 <p>🔹 Advanced practitioner in AI development environments:</p>
 <ul>
-  <li>• Context Engineering specialist with Claude, GPT-4, and Gemini</li>
-  <li>• Extensive experience with AI CLI tools: Anthropic Claude CLI, OpenAI CLI, Google AI CLI</li>
-  <li>• Successfully launched multiple AI-powered products and developer tools</li>
-  <li>• Proficient in modern AI-augmented IDEs: Cursor, GitHub Copilot, Amazon CodeWhisperer</li>
+  <li>Context Engineering specialist with Claude, GPT-4, and Gemini</li>
+  <li>Extensive experience with AI CLI tools: Anthropic Claude CLI, OpenAI CLI, Google AI CLI</li>
+  <li>Successfully launched multiple AI-powered products and developer tools</li>
+  <li>Proficient in modern AI-augmented IDEs: Cursor, GitHub Copilot, Amazon CodeWhisperer</li>
 </ul>
 
 <p>🔹 Track record of delivering:</p>
 <ul>
-  <li>• Custom LLM integration solutions for enterprise clients</li>
-  <li>• AI-powered developer productivity tools and extensions</li>
-  <li>• Context-aware code generation and analysis systems</li>
-  <li>• Automated code review and optimization platforms</li>
+  <li>Custom LLM integration solutions for enterprise clients</li>
+  <li>AI-powered developer productivity tools and extensions</li>
+  <li>Context-aware code generation and analysis systems</li>
+  <li>Automated code review and optimization platforms</li>
 </ul>
 
 <p>🔹 Sharing insights on Data D blog, open to discussions about AI and backend systems.</p>
