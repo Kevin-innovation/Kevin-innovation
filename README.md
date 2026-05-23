@@ -1,165 +1,194 @@
-<!-- Kevin-innovation README | Dark Balanced Minimal -->
+<!-- 상단 애니메이션 구분선 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" />
+</div>
+
+<!-- 프로필 헤더 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Kevin+%F0%9F%91%8B;AI+%26+Software+Developer;Creative+Problem+Solver" alt="Typing SVG" />
+  
+  <h3 align="center">『 Smooth waters run deep. 』</h3>
+  
+  <p align="center">
+    <a href="https://datad.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-Data_D-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" />
+    </a>
+    <a href="mailto:kevin.park@daddyslab.com">
+      <img src="https://img.shields.io/badge/Email-kevin.park@daddyslab.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+<!-- 소개 섹션 -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
+    About Me
+  </h2>
+</div>
+
+<p>🔹 Developer at the crossroads of AI and software with 10+ years of experience.</p>
+
+<p>🔹 Expert in LLM integration, game dev, and scalable architecture using Python, C++, and JavaScript.</p>
+
+<p>🔹 Creating innovative AI solutions at DLAB with a human-centered tech philosophy.</p>
+
+<p>🔹 Advanced practitioner in AI development environments:</p>
+<ul>
+  <li>Context Engineering specialist with Claude, GPT-4, and Gemini</li>
+  <li>Extensive experience with AI CLI tools: Anthropic Claude CLI, OpenAI CLI, Google AI CLI</li>
+  <li>Successfully launched multiple AI-powered products and developer tools</li>
+  <li>Proficient in modern AI-augmented IDEs: Cursor, GitHub Copilot, Amazon CodeWhisperer</li>
+</ul>
+
+<p>🔹 Track record of delivering:</p>
+<ul>
+  <li>Custom LLM integration solutions for enterprise clients</li>
+  <li>AI-powered developer productivity tools and extensions</li>
+  <li>Context-aware code generation and analysis systems</li>
+  <li>Automated code review and optimization platforms</li>
+</ul>
+
+<p>🔹 Sharing insights on Data D blog, open to discussions about AI and backend systems.</p>
+
+<p>🔹 Passionate about collaboration and growth—ready to build something extraordinary.</p>
+
+<!-- 기술 스택 -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
+    Tech Stack
+  </h2>
+</div>
 
 <div align="center">
+  <h3 style="font-size: 1.5em; margin: 20px 0;">
+    Advancing the synergy between human expertise and artificial intelligence
+  </h3>
+  <h4 style="font-size: 1.2em; color: #666; margin: 15px 0;">
+    Architecting next-generation systems that elevate human capabilities
+  </h4>
+  <h4 style="font-size: 1.2em; color: #666; margin: 15px 0;">
+    Delivering precision-engineered solutions for complex technological challenges
+  </h4>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:312E81,100:06B6D4&height=170&section=header&text=Kevin%20Park&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=AI%20Engineer%20%7C%20Software%20Architect&descSize=17&descAlignY=58&animation=fadeIn" alt="Kevin Park" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=60&lines=AI-native+Developer;Agentic+Systems;LLM+%2B+Backend+%2B+Game+Tech" alt="Typing SVG" />
-
-<h3>『 Smooth waters run deep. 』</h3>
-
+<h3>AI Engineering Excellence</h3>
 <p>
-  <a href="https://datad.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Data_D-FF7043?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:kevin.park@daddyslab.com">
-    <img src="https://img.shields.io/badge/Email-Kevin-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Kevin-innovation">
-    <img src="https://img.shields.io/badge/GitHub-Kevin--innovation-475569?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Context_Engineering-Expert-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Context Engineering" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-4CAF50?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI_Driven_Development-Specialist-6A5ACD?style=flat-square&logo=openai&logoColor=white" alt="AI Driven Development" />
 </p>
 
-</div>
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h2>About</h2>
-      <p>
-        AI와 소프트웨어의 접점에서 제품을 만드는 개발자입니다.
-      </p>
-      <ul>
-        <li>10+ years in software engineering</li>
-        <li>LLM, backend, game tech</li>
-        <li>Python, C++, TypeScript</li>
-        <li>DLAB AI solutions</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h2>Focus</h2>
-      <p>
-        작은 프로토타입을 안정적인 시스템으로 확장합니다.
-      </p>
-      <ul>
-        <li>Agents, MCP, A2A</li>
-        <li>RAG, GraphRAG, LLMOps</li>
-        <li>Cloud-native backend</li>
-        <li>AI developer workflow</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## Stack
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>AI</h3>
-      <p>
-        <img src="https://img.shields.io/badge/OpenAI-6D5DFB?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-        <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-        <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge" alt="MCP" />
-        <img src="https://img.shields.io/badge/A2A-06B6D4?style=for-the-badge" alt="A2A" />
-        <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge" alt="RAG" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Code</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,cs,go,rust&theme=dark&perline=7" alt="Code Stack" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Web</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bun,fastapi,tailwind,graphql&theme=dark&perline=7" alt="Web Stack" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Data</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch&theme=dark&perline=5" alt="Data Stack" />
-        <br>
-        <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" alt="pgvector" />
-        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" alt="Qdrant" />
-        <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Cloud</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux&theme=dark&perline=6" alt="Cloud Stack" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Game</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=unity,unreal,blender,cs,cpp&theme=dark&perline=5" alt="Game Stack" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## Build
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Systems</h3>
-      <ul>
-        <li>Agent workflows</li>
-        <li>LLM integrations</li>
-        <li>RAG pipelines</li>
-        <li>API platforms</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tools</h3>
-      <ul>
-        <li>AI CLI workflows</li>
-        <li>Code assistants</li>
-        <li>Automation</li>
-        <li>Observability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-## Signals
-
+<h3>Programming Languages</h3>
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Kevin-innovation&label=Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kevin-innovation?label=Followers&style=for-the-badge&logo=github&color=6366F1" alt="Followers" />
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-22C55E?style=for-the-badge" alt="Open to Collaboration" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<br>
+<h3>AI & Machine Learning</h3>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-00A2FF?style=flat-square&logo=proton&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LLM_Integration-0467DF?style=flat-square" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Stable_Diffusion-FF9E0F?style=flat-square&logo=huggingface&logoColor=white" alt="Stable Diffusion" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312E81,100:020617&height=120&section=footer" alt="Footer" />
+<h3>Game Development</h3>
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+</p>
 
+<h3>Web & Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
+<h3>Database & Cloud</h3>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+<h3>Other Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+<!-- 사용 언어 통계 -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px">
+    Main Language
+  </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-innovation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD" alt="Top Languages" />
 </div>
+
+<!-- 기술 워드 클라우드 -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30px" height="30px">
+    Tech Cloud
+  </h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/Problem-Solver-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Creative-Coder-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Game-Developer-red?style=flat-square" />
+    <img src="https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=flat-square" />
+    <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Cloud-Engineer-informational?style=flat-square" />
+    <img src="https://img.shields.io/badge/DevOps-Practitioner-yellow?style=flat-square" />
+  </p>
+</div>
+
+<!-- 스킬 진행 바 -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="30px" height="30px">
+    Skill Bar
+  </h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-80%25-000000?style=flat-square&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI-95%25-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web_Dev-75%25-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  </p>
+</div>
+
+<!-- 방문자 카운터 -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/heyP6XhQYt2De/giphy.gif" width="30px" height="30px">
+    Visitors
+  </h2>
+  <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kevin-innovation.Kevin-innovation&left_color=gray&right_color=6A5ACD&left_text=Profile%20Views&format=true&total_count=815" alt="Visitors Badge"/>
+    <img src="https://img.shields.io/github/followers/Kevin-innovation?label=Followers&style=flat-square&color=6A5ACD" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/Kevin-innovation?label=Stars&style=flat-square&color=6A5ACD" alt="Stars"/>
+  </p>
+</div>
+
+<!-- 푸터 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" />
+</div>
+
