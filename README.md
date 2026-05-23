@@ -132,14 +132,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-<!-- 사용 언어 통계 -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px">
-    Main Language
-  </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-innovation&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD" alt="Top Languages" />
-</div>
+
 
 <!-- 기술 워드 클라우드 -->
 <div align="center">
