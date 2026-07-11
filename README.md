@@ -17,35 +17,35 @@
 > **AI를 도구로, 아이디어를 '실제로 돌아가는 제품'으로 만드는 개발자입니다.**  
 > Always with an innovative mindset.
 
-<table>
-<tr><td><b>10년+ 경험</b></td><td>AI · 소프트웨어 · 게임 개발 현장에서 쌓은 실무</td></tr>
-<tr><td><b>LLM을 무기로</b></td><td>Claude · GPT · Gemini를 연동한 제품·도구 설계</td></tr>
-<tr><td><b>끝까지 만든다</b></td><td>직접 만들어 공개한 프로젝트 <b>40개 이상</b></td></tr>
-<tr><td><b>분야를 안 가린다</b></td><td>웹 · 게임 · 교육 시뮬 · 대시보드 · AI 서비스</td></tr>
-<tr><td><b>사람 중심 기술</b></td><td>DLAB에서 학습·창작을 돕는 솔루션을 만듦</td></tr>
-<tr><td><b>Context Engineering</b></td><td>AI CLI · Cursor · Copilot 등 AI 개발 환경 실전 활용</td></tr>
+<table width="100%">
+<tr><td width="28%"><b>10년+ 경험</b></td><td width="72%">AI · 소프트웨어 · 게임 개발 현장에서 쌓은 실무</td></tr>
+<tr><td width="28%"><b>LLM을 무기로</b></td><td width="72%">Claude · GPT · Gemini를 연동한 제품·도구 설계</td></tr>
+<tr><td width="28%"><b>끝까지 만든다</b></td><td width="72%">직접 만들어 공개한 프로젝트 <b>40개 이상</b></td></tr>
+<tr><td width="28%"><b>분야를 안 가린다</b></td><td width="72%">웹 · 게임 · 교육 시뮬 · 대시보드 · AI 서비스</td></tr>
+<tr><td width="28%"><b>사람 중심 기술</b></td><td width="72%">DLAB에서 학습·창작을 돕는 솔루션을 만듦</td></tr>
+<tr><td width="28%"><b>Context Engineering</b></td><td width="72%">AI CLI · Cursor · Copilot 등 AI 개발 환경 실전 활용</td></tr>
 </table>
 
 ---
 
 ## 작업한 프로젝트 · Projects
 
-<table>
-<tr><td><b><a href="https://github.com/Kevin-innovation/no-smartphone">no-smartphone</a></b></td><td>스마트폰 사용 시간을 평생 단위로 환산·시각화하는 디지털 디톡스 웹앱</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/py-algo">py-algo</a></b></td><td>브라우저에서 Python 알고리즘을 실행·시각화하고 AI 분석까지 돕는 학습 플랫폼</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/sword-rpg">sword-rpg</a></b></td><td>검 강화 · 랭킹이 있는 Next.js 웹 게임 (Supabase 연동)</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/EVADE">EVADE</a></b></td><td>웨이브 생존 액션 로그라이크 — 업그레이드·연구 강화 시스템</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/magnetic_simulator">magnetic_simulator</a></b></td><td>3D 자석·철가루 상호작용을 보여주는 물리학 교육용 시뮬레이터</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/baduk-game">baduk-game</a></b></td><td>Next.js + TypeScript로 구현한 바둑(Go) 웹 게임</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/TSL8-Tesla-chip-guide-by-Korean">TSL8 Tesla Chip Guide</a></b></td><td>한국어로 정리한 Tesla 칩·관련 기술 가이드 사이트</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/dlab-dashboard">dlab-dashboard</a></b></td><td>DLAB 운영·학습을 위한 대시보드</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/CBT-mind-lab">CBT-mind-lab</a></b></td><td>인지행동치료(CBT) 개념을 다루는 마인드 랩 웹 프로젝트</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/space-shooter">space-shooter</a></b></td><td>브라우저에서 즐기는 스페이스 슈터 게임</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/dlab-chat-app">dlab-chat-app</a></b></td><td>실시간 채팅 앱 (DLAB 교육용)</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/Blue-Marble-Online">Blue-Marble-Online</a></b></td><td>부루마블 스타일 온라인 보드 게임</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/Perfect-Pitch-Test">Perfect-Pitch-Test</a></b></td><td>절대음감·음정 감각을 테스트하는 웹 앱</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/Connect-Four">Connect-Four</a></b></td><td>Connect Four 보드 게임 구현</td></tr>
-<tr><td><b><a href="https://github.com/Kevin-innovation/shader-temp">shader-temp</a></b></td><td>웹 셰이더 실험·템플릿</td></tr>
+<table width="100%">
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/no-smartphone">no-smartphone</a></b></td><td width="72%">스마트폰 사용 시간을 평생 단위로 환산·시각화하는 디지털 디톡스 웹앱</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/py-algo">py-algo</a></b></td><td width="72%">브라우저에서 Python 알고리즘을 실행·시각화하고 AI 분석까지 돕는 학습 플랫폼</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/sword-rpg">sword-rpg</a></b></td><td width="72%">검 강화 · 랭킹이 있는 Next.js 웹 게임 (Supabase 연동)</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/EVADE">EVADE</a></b></td><td width="72%">웨이브 생존 액션 로그라이크 — 업그레이드·연구 강화 시스템</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/magnetic_simulator">magnetic_simulator</a></b></td><td width="72%">3D 자석·철가루 상호작용을 보여주는 물리학 교육용 시뮬레이터</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/baduk-game">baduk-game</a></b></td><td width="72%">Next.js + TypeScript로 구현한 바둑(Go) 웹 게임</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/TSL8-Tesla-chip-guide-by-Korean">TSL8 Tesla Chip Guide</a></b></td><td width="72%">한국어로 정리한 Tesla 칩·관련 기술 가이드 사이트</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/dlab-dashboard">dlab-dashboard</a></b></td><td width="72%">DLAB 운영·학습을 위한 대시보드</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/CBT-mind-lab">CBT-mind-lab</a></b></td><td width="72%">인지행동치료(CBT) 개념을 다루는 마인드 랩 웹 프로젝트</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/space-shooter">space-shooter</a></b></td><td width="72%">브라우저에서 즐기는 스페이스 슈터 게임</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/dlab-chat-app">dlab-chat-app</a></b></td><td width="72%">실시간 채팅 앱 (DLAB 교육용)</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/Blue-Marble-Online">Blue-Marble-Online</a></b></td><td width="72%">부루마블 스타일 온라인 보드 게임</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/Perfect-Pitch-Test">Perfect-Pitch-Test</a></b></td><td width="72%">절대음감·음정 감각을 테스트하는 웹 앱</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/Connect-Four">Connect-Four</a></b></td><td width="72%">Connect Four 보드 게임 구현</td></tr>
+<tr><td width="28%"><b><a href="https://github.com/Kevin-innovation/shader-temp">shader-temp</a></b></td><td width="72%">웹 셰이더 실험·템플릿</td></tr>
 </table>
 
 <div align="center">
@@ -122,9 +122,9 @@
 
 **AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반</sub>
 
-![Tokens](https://img.shields.io/badge/Tokens-420M%2B-30363d?style=flat-square)
-![Messages](https://img.shields.io/badge/Messages-9%2C670-30363d?style=flat-square)
-![Agents](https://img.shields.io/badge/Agents-Claude%20%7C%20Codex%20%7C%20Gemini%20%7C%20Cursor-30363d?style=flat-square)
+<img src="https://img.shields.io/badge/Tokens-420M%2B-30363d?style=flat-square" alt="Tokens" />
+<img src="https://img.shields.io/badge/Messages-9%2C670-30363d?style=flat-square" alt="Messages" />
+<img src="https://img.shields.io/badge/Agents-Claude%20%C2%B7%20Codex%20%C2%B7%20Gemini%20%C2%B7%20Cursor-30363d?style=flat-square" alt="Agents" />
 
 <br/>
 
@@ -132,9 +132,16 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin-innovation&theme=github_dark" height="200" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin-innovation&theme=github_dark" height="200" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin-innovation&theme=github_dark" height="200" alt="Most Commit Language" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin-innovation&theme=github_dark" width="100%" alt="Repos per Language" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin-innovation&theme=github_dark" width="100%" alt="Most Commit Language" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
