@@ -94,7 +94,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-30363d?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-30363d?style=flat-square&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-30363d?style=flat-square&logo=huggingface&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context%20Engineering-6A5ACD?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-30363d?style=flat-square)
 
 **데이터베이스 · Database**
 
@@ -122,7 +122,7 @@
 
 **AI 코딩 에이전트 실무 활용** &nbsp;<sub>Claude · Codex · Gemini · Cursor</sub>
 
-![Agents](https://img.shields.io/badge/Agents-Claude%20·%20Codex%20·%20Gemini-6A5ACD?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-Claude%20%7C%20Codex%20%7C%20Gemini-30363d?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Context%20Engineering-30363d?style=flat-square)
 ![Ship](https://img.shields.io/badge/Public%20Repos-40%2B-30363d?style=flat-square)
 
@@ -132,8 +132,9 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kevin-innovation&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-innovation&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kevin-innovation&theme=github_dark" height="200" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kevin-innovation&theme=github_dark" height="200" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kevin-innovation&theme=github_dark" height="200" alt="Most Commit Language" />
 
 </div>
 
