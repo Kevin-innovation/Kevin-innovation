@@ -1,187 +1,159 @@
-<!-- 상단 애니메이션 구분선 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:6A5ACD&height=180&section=header&text=Kevin%20Innovation&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Software%20%C2%B7%20Game%20%C2%B7%20Education&descSize=15&descAlignY=58&descColor=9CA3AF" width="100%" alt="Kevin Innovation"/>
+
+### AI와 소프트웨어, 게임과 교육을 잇는 개발자
+
+『 Smooth waters run deep. 』
+
+📍 South Korea · DLAB
+
 </div>
 
-<!-- 프로필 헤더 -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Kevin+%F0%9F%91%8B;AI+%26+Software+Developer;Creative+Problem+Solver" alt="Typing SVG" />
-  
-  <h3 align="center">『 Smooth waters run deep. 』</h3>
-  
-  <p align="center">
-    <a href="https://datad.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-Data_D-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog" />
-    </a>
-    <a href="mailto:kevin.park@daddyslab.com">
-      <img src="https://img.shields.io/badge/Email-kevin.park@daddyslab.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+---
 
-<!-- 소개 섹션 -->
-<div align="center">
-  <h2>
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px" height="20px">
-    About Me
-  </h2>
-</div>
+## 소개 · About Me
 
-<p>🔹 Developer at the crossroads of AI and software with 10+ years of experience.</p>
+> **AI를 도구로, 아이디어를 '실제로 돌아가는 제품'으로 만드는 개발자입니다.**  
+> Always with an innovative mindset.
 
-<p>🔹 Expert in LLM integration, game dev, and scalable architecture using Python, C++, and JavaScript.</p>
+<table>
+<tr><td><b>10년+ 경험</b></td><td>AI · 소프트웨어 · 게임 개발 현장에서 쌓은 실무</td></tr>
+<tr><td><b>LLM을 무기로</b></td><td>Claude · GPT · Gemini를 연동한 제품·도구 설계</td></tr>
+<tr><td><b>끝까지 만든다</b></td><td>직접 만들어 공개한 프로젝트 <b>40개 이상</b></td></tr>
+<tr><td><b>분야를 안 가린다</b></td><td>웹 · 게임 · 교육 시뮬 · 대시보드 · AI 서비스</td></tr>
+<tr><td><b>사람 중심 기술</b></td><td>DLAB에서 학습·창작을 돕는 솔루션을 만듦</td></tr>
+<tr><td><b>Context Engineering</b></td><td>AI CLI · Cursor · Copilot 등 AI 개발 환경 실전 활용</td></tr>
+</table>
 
-<p>🔹 Creating innovative AI solutions at DLAB with a human-centered tech philosophy.</p>
+---
 
-<p>🔹 Advanced practitioner in AI development environments:</p>
-<ul>
-  <li>Context Engineering specialist with Claude, GPT-4, and Gemini</li>
-  <li>Extensive experience with AI CLI tools: Anthropic Claude CLI, OpenAI CLI, Google AI CLI</li>
-  <li>Successfully launched multiple AI-powered products and developer tools</li>
-  <li>Proficient in modern AI-augmented IDEs: Cursor, GitHub Copilot, Amazon CodeWhisperer</li>
-</ul>
+## 작업한 프로젝트 · Projects
 
-<p>🔹 Track record of delivering:</p>
-<ul>
-  <li>Custom LLM integration solutions for enterprise clients</li>
-  <li>AI-powered developer productivity tools and extensions</li>
-  <li>Context-aware code generation and analysis systems</li>
-  <li>Automated code review and optimization platforms</li>
-</ul>
-
-<p>🔹 Sharing insights on Data D blog, open to discussions about AI and backend systems.</p>
-
-<p>🔹 Passionate about collaboration and growth—ready to build something extraordinary.</p>
-
-<!-- 기술 스택 -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
-    Tech Stack
-  </h2>
-</div>
+<table>
+<tr><td><b><a href="https://github.com/Kevin-innovation/no-smartphone">no-smartphone</a></b></td><td>스마트폰 사용 시간을 평생 단위로 환산·시각화하는 디지털 디톡스 웹앱</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/py-algo">py-algo</a></b></td><td>브라우저에서 Python 알고리즘을 실행·시각화하고 AI 분석까지 돕는 학습 플랫폼</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/sword-rpg">sword-rpg</a></b></td><td>검 강화 · 랭킹이 있는 Next.js 웹 게임 (Supabase 연동)</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/EVADE">EVADE</a></b></td><td>웨이브 생존 액션 로그라이크 — 업그레이드·연구 강화 시스템</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/magnetic_simulator">magnetic_simulator</a></b></td><td>3D 자석·철가루 상호작용을 보여주는 물리학 교육용 시뮬레이터</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/baduk-game">baduk-game</a></b></td><td>Next.js + TypeScript로 구현한 바둑(Go) 웹 게임</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/TSL8-Tesla-chip-guide-by-Korean">TSL8 Tesla Chip Guide</a></b></td><td>한국어로 정리한 Tesla 칩·관련 기술 가이드 사이트</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/dlab-dashboard">dlab-dashboard</a></b></td><td>DLAB 운영·학습을 위한 대시보드</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/CBT-mind-lab">CBT-mind-lab</a></b></td><td>인지행동치료(CBT) 개념을 다루는 마인드 랩 웹 프로젝트</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/space-shooter">space-shooter</a></b></td><td>브라우저에서 즐기는 스페이스 슈터 게임</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/dlab-chat-app">dlab-chat-app</a></b></td><td>실시간 채팅 앱 (DLAB 교육용)</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/Blue-Marble-Online">Blue-Marble-Online</a></b></td><td>부루마블 스타일 온라인 보드 게임</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/Perfect-Pitch-Test">Perfect-Pitch-Test</a></b></td><td>절대음감·음정 감각을 테스트하는 웹 앱</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/Connect-Four">Connect-Four</a></b></td><td>Connect Four 보드 게임 구현</td></tr>
+<tr><td><b><a href="https://github.com/Kevin-innovation/shader-temp">shader-temp</a></b></td><td>웹 셰이더 실험·템플릿</td></tr>
+</table>
 
 <div align="center">
-  <h3 style="font-size: 1.5em; margin: 20px 0;">
-    Advancing the synergy between human expertise and artificial intelligence
-  </h3>
-  <h4 style="font-size: 1.2em; color: #666; margin: 15px 0;">
-    Architecting next-generation systems that elevate human capabilities
-  </h4>
-  <h4 style="font-size: 1.2em; color: #666; margin: 15px 0;">
-    Delivering precision-engineered solutions for complex technological challenges
-  </h4>
+
+<a href="https://github.com/Kevin-innovation?tab=repositories"><img src="https://capsule-render.vercel.app/api?type=rect&color=6A5ACD&height=70&text=%F0%9F%93%82%20%EC%A0%84%EC%B2%B4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0%20%E2%86%92&fontSize=24&fontColor=ffffff&fontAlignY=58" width="100%" alt="전체 프로젝트 보러가기"/></a>
+
 </div>
 
-<h3>AI Engineering Excellence</h3>
-<p>
-  <img src="https://img.shields.io/badge/Context_Engineering-Expert-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Context Engineering" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-Advanced-4CAF50?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI_Driven_Development-Specialist-6A5ACD?style=flat-square&logo=openai&logoColor=white" alt="AI Driven Development" />
-</p>
+---
 
-<h3>Programming Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+## 기술 스택 · Tech Stack
 
-<h3>AI & Machine Learning</h3>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Claude-00A2FF?style=flat-square&logo=proton&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/LLM_Integration-0467DF?style=flat-square" alt="LLM Integration" />
-  <img src="https://img.shields.io/badge/Stable_Diffusion-FF9E0F?style=flat-square&logo=huggingface&logoColor=white" alt="Stable Diffusion" />
-</p>
-
-<h3>Game Development</h3>
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
-</p>
-
-<h3>Web & Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
-
-<h3>Database & Cloud</h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
-<h3>Other Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-
-
-<!-- 기술 워드 클라우드 -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="30px" height="30px">
-    Tech Cloud
-  </h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/AI-Enthusiast-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/Problem-Solver-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Creative-Coder-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/Game-Developer-red?style=flat-square" />
-    <img src="https://img.shields.io/badge/Full_Stack-Developer-blueviolet?style=flat-square" />
-    <img src="https://img.shields.io/badge/Open_Source-Contributor-success?style=flat-square" />
-    <img src="https://img.shields.io/badge/Cloud-Engineer-informational?style=flat-square" />
-    <img src="https://img.shields.io/badge/DevOps-Practitioner-yellow?style=flat-square" />
-  </p>
+
+<sub>AI · 소프트웨어 · 게임 · 교육 제품을 만들며 사용한 기술들</sub>
+
+**언어 · Languages**
+
+![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=flat-square&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-30363d?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-30363d?style=flat-square&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-30363d?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-30363d?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-30363d?style=flat-square&logo=css&logoColor=white)
+
+**프론트엔드 · 웹 · Frontend & Web**
+
+![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-30363d?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-30363d?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-30363d?style=flat-square&logo=express&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-30363d?style=flat-square&logo=threedotjs&logoColor=white)
+
+**게임 · Game Development**
+
+![Unity](https://img.shields.io/badge/Unity-30363d?style=flat-square&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-30363d?style=flat-square&logo=unrealengine&logoColor=white)
+
+**AI · Machine Learning**
+
+![Claude](https://img.shields.io/badge/Claude-30363d?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-30363d?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-30363d?style=flat-square&logo=googlegemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-30363d?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-30363d?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-30363d?style=flat-square&logo=huggingface&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-6A5ACD?style=flat-square)
+
+**데이터베이스 · Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-30363d?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-30363d?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-30363d?style=flat-square&logo=supabase&logoColor=white)
+
+**배포 · 도구 · Deploy & Tools**
+
+![Vercel](https://img.shields.io/badge/Vercel-30363d?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-30363d?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-30363d?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30363d?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-30363d?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-30363d?style=flat-square&logo=figma&logoColor=white)
+
 </div>
 
-<!-- 스킬 진행 바 -->
+---
+
+## 활동 · Activity
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="30px" height="30px">
-    Skill Bar
-  </h2>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-85%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Unity-80%25-000000?style=flat-square&logo=unity&logoColor=white" />
-    <img src="https://img.shields.io/badge/AI-95%25-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Web_Dev-75%25-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  </p>
+
+**AI 코딩 에이전트 실무 활용** &nbsp;<sub>Claude · Codex · Gemini · Cursor</sub>
+
+![Agents](https://img.shields.io/badge/Agents-Claude%20·%20Codex%20·%20Gemini-6A5ACD?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Context%20Engineering-30363d?style=flat-square)
+![Ship](https://img.shields.io/badge/Public%20Repos-40%2B-30363d?style=flat-square)
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kevin-innovation&theme=github_dark" width="100%" alt="GitHub Profile Summary" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kevin-innovation&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-innovation&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+
 </div>
 
-<!-- 방문자 카운터 -->
+---
+
+## 연락처 · Contact
+
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/heyP6XhQYt2De/giphy.gif" width="30px" height="30px">
-    Visitors
-  </h2>
-  <p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kevin-innovation.Kevin-innovation&left_color=gray&right_color=6A5ACD&left_text=Profile%20Views&format=true&total_count=815" alt="Visitors Badge"/>
-    <img src="https://img.shields.io/github/followers/Kevin-innovation?label=Followers&style=flat-square&color=6A5ACD" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/Kevin-innovation?label=Stars&style=flat-square&color=6A5ACD" alt="Stars"/>
-  </p>
-</div>
 
-<!-- 푸터 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer" />
-</div>
+### 아이디어를, 작동하는 제품으로
 
+AI 연동 · 웹 · 게임 · 교육 도구 제작  
+**의뢰 · 협업 · 이야기** 환영합니다.
+
+[![Blog](https://img.shields.io/badge/Blog-Data_D-30363d?style=flat-square&logo=blogger&logoColor=white)](https://datad.tistory.com/)
+[![Email](https://img.shields.io/badge/Email-kevin.park@daddyslab.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:kevin.park@daddyslab.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kevin--innovation-30363d?style=flat-square&logo=github&logoColor=white)](https://github.com/Kevin-innovation)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1A1B27&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
