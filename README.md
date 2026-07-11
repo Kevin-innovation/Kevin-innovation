@@ -120,11 +120,11 @@
 
 <div align="center">
 
-**AI 코딩 에이전트 실무 활용** &nbsp;<sub>Claude · Codex · Gemini · Cursor</sub>
+**AI 코딩 에이전트 실무 활용** &nbsp;<sub>로컬 사용 기록 기반</sub>
 
-![Agents](https://img.shields.io/badge/Agents-Claude%20%7C%20Codex%20%7C%20Gemini-30363d?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Context%20Engineering-30363d?style=flat-square)
-![Ship](https://img.shields.io/badge/Public%20Repos-40%2B-30363d?style=flat-square)
+![Tokens](https://img.shields.io/badge/Tokens-420M%2B-30363d?style=flat-square)
+![Messages](https://img.shields.io/badge/Messages-9%2C670-30363d?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-Claude%20%7C%20Codex%20%7C%20Gemini%20%7C%20Cursor-30363d?style=flat-square)
 
 <br/>
 
