@@ -1,0 +1,681 @@
+{
+  "login": "Kevin-innovation",
+  "repos": {
+    "Kevin-innovation/baduk-game": {
+      "exp": 0,
+      "caught": true,
+      "species": 824,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 824
+    },
+    "Kevin-innovation/Blue-Marble-Online": {
+      "exp": 3500,
+      "caught": true,
+      "species": 343,
+      "stars": 0,
+      "commits": 14,
+      "merges": 0,
+      "alive": true,
+      "level": 15,
+      "mon": 343
+    },
+    "Kevin-innovation/canada": {
+      "exp": 0,
+      "caught": true,
+      "species": 540,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 540
+    },
+    "Kevin-innovation/CBT-mind-lab": {
+      "exp": 0,
+      "caught": true,
+      "species": 21,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 21
+    },
+    "Kevin-innovation/chess-bj1018": {
+      "exp": 750,
+      "caught": true,
+      "species": 16,
+      "stars": 0,
+      "commits": 3,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 16
+    },
+    "Kevin-innovation/click-game": {
+      "exp": 500,
+      "caught": true,
+      "species": 821,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 821
+    },
+    "Kevin-innovation/Connect-Four": {
+      "exp": 0,
+      "caught": true,
+      "species": 19,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 19
+    },
+    "Kevin-innovation/cookie-clicker": {
+      "exp": 250,
+      "caught": true,
+      "species": 401,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 401
+    },
+    "Kevin-innovation/dlab-chat-app": {
+      "exp": 500,
+      "caught": true,
+      "species": 928,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 928
+    },
+    "Kevin-innovation/dlab-dashboard": {
+      "exp": 0,
+      "caught": true,
+      "species": 273,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 273
+    },
+    "Kevin-innovation/dlab-roadmap": {
+      "exp": 250,
+      "caught": true,
+      "species": 263,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 263
+    },
+    "Kevin-innovation/DLAB_Daegu_Javascript": {
+      "exp": 6000,
+      "caught": true,
+      "species": 731,
+      "stars": 0,
+      "commits": 24,
+      "merges": 0,
+      "alive": true,
+      "level": 18,
+      "mon": 732
+    },
+    "Kevin-innovation/DLAB_std_cnt": {
+      "exp": 1500,
+      "caught": true,
+      "species": 43,
+      "stars": 0,
+      "commits": 6,
+      "merges": 0,
+      "alive": true,
+      "level": 13,
+      "mon": 43
+    },
+    "Kevin-innovation/EVADE": {
+      "exp": 250,
+      "caught": true,
+      "species": 27,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 27
+    },
+    "Kevin-innovation/flag_quiz": {
+      "exp": 250,
+      "caught": true,
+      "species": 396,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 396
+    },
+    "Kevin-innovation/git_study": {
+      "exp": 250,
+      "caught": true,
+      "species": 504,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 504
+    },
+    "Kevin-innovation/heap_simulator": {
+      "exp": 0,
+      "caught": true,
+      "species": 50,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 50
+    },
+    "Kevin-innovation/inseok-kakao-portfolio": {
+      "exp": 0,
+      "caught": true,
+      "species": 194,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 194
+    },
+    "Kevin-innovation/invitation": {
+      "exp": 250,
+      "caught": true,
+      "species": 406,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 406
+    },
+    "Kevin-innovation/jupyter-lecture": {
+      "exp": 250,
+      "caught": true,
+      "species": 261,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 261
+    },
+    "Kevin-innovation/Kevin-innovation": {
+      "exp": 7750,
+      "caught": true,
+      "species": 843,
+      "stars": 1,
+      "commits": 31,
+      "merges": 0,
+      "alive": true,
+      "level": 19,
+      "mon": 843
+    },
+    "Kevin-innovation/kevin-s-dashboard": {
+      "exp": 0,
+      "caught": true,
+      "species": 290,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 290
+    },
+    "Kevin-innovation/linear-design": {
+      "exp": 0,
+      "caught": true,
+      "species": 438,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 438
+    },
+    "Kevin-innovation/log_in": {
+      "exp": 0,
+      "caught": true,
+      "species": 366,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 366
+    },
+    "Kevin-innovation/magnetic_simulator": {
+      "exp": 250,
+      "caught": true,
+      "species": 287,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 5,
+      "mon": 287
+    },
+    "Kevin-innovation/metro-dash": {
+      "exp": 300,
+      "caught": true,
+      "species": 41,
+      "stars": 0,
+      "commits": 0,
+      "merges": 1,
+      "alive": true,
+      "level": 6,
+      "mon": 41
+    },
+    "Kevin-innovation/next-level_up": {
+      "exp": 0,
+      "caught": true,
+      "species": 23,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 23
+    },
+    "Kevin-innovation/no-smartphone": {
+      "exp": 0,
+      "caught": true,
+      "species": 506,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 506
+    },
+    "Kevin-innovation/Perfect-Pitch-Test": {
+      "exp": 0,
+      "caught": true,
+      "species": 932,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 932
+    },
+    "Kevin-innovation/pixel-defence": {
+      "exp": 0,
+      "caught": true,
+      "species": 163,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 163
+    },
+    "Kevin-innovation/putting_simulator": {
+      "exp": 1000,
+      "caught": true,
+      "species": 519,
+      "stars": 0,
+      "commits": 4,
+      "merges": 0,
+      "alive": true,
+      "level": 12,
+      "mon": 519
+    },
+    "Kevin-innovation/py-algo": {
+      "exp": 0,
+      "caught": true,
+      "species": 960,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 960
+    },
+    "Kevin-innovation/random-dice": {
+      "exp": 0,
+      "caught": true,
+      "species": 285,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 285
+    },
+    "Kevin-innovation/rullet": {
+      "exp": 500,
+      "caught": true,
+      "species": 328,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 9,
+      "mon": 328
+    },
+    "CHEOLLIAN/Satellite-image-object-segmentation": {
+      "exp": 0,
+      "caught": false,
+      "species": 52,
+      "stars": 10,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 52
+    },
+    "Kevin-innovation/shader-temp": {
+      "exp": 0,
+      "caught": true,
+      "species": 509,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 509
+    },
+    "Kevin-innovation/shop-mobile": {
+      "exp": 250,
+      "caught": true,
+      "species": 399,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 6,
+      "mon": 399
+    },
+    "Kevin-innovation/space-shooter": {
+      "exp": 0,
+      "caught": true,
+      "species": 831,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 831
+    },
+    "Kevin-innovation/stopper_game": {
+      "exp": 500,
+      "caught": true,
+      "species": 659,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 659
+    },
+    "Kevin-innovation/sword-rpg": {
+      "exp": 0,
+      "caught": true,
+      "species": 827,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 827
+    },
+    "Kevin-innovation/ticket2ride": {
+      "exp": 0,
+      "caught": true,
+      "species": 436,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 436
+    },
+    "Kevin-innovation/TSL8-Tesla-chip-guide-by-Korean": {
+      "exp": 250,
+      "caught": true,
+      "species": 333,
+      "stars": 0,
+      "commits": 1,
+      "merges": 0,
+      "alive": true,
+      "level": 5,
+      "mon": 333
+    },
+    "Kevin-innovation/wave-ver1.0": {
+      "exp": 1000,
+      "caught": true,
+      "species": 734,
+      "stars": 0,
+      "commits": 4,
+      "merges": 0,
+      "alive": true,
+      "level": 10,
+      "mon": 734
+    },
+    "Kevin-innovation/wave_simulation": {
+      "exp": 500,
+      "caught": true,
+      "species": 664,
+      "stars": 0,
+      "commits": 2,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 664
+    }
+  },
+  "dex": {
+    "16": {
+      "seen": true,
+      "caught": true
+    },
+    "19": {
+      "seen": true,
+      "caught": true
+    },
+    "21": {
+      "seen": true,
+      "caught": true
+    },
+    "23": {
+      "seen": true,
+      "caught": true
+    },
+    "27": {
+      "seen": true,
+      "caught": true
+    },
+    "41": {
+      "seen": true,
+      "caught": true
+    },
+    "43": {
+      "seen": true,
+      "caught": true
+    },
+    "50": {
+      "seen": true,
+      "caught": true
+    },
+    "52": {
+      "seen": true,
+      "caught": false
+    },
+    "163": {
+      "seen": true,
+      "caught": true
+    },
+    "194": {
+      "seen": true,
+      "caught": true
+    },
+    "261": {
+      "seen": true,
+      "caught": true
+    },
+    "263": {
+      "seen": true,
+      "caught": true
+    },
+    "273": {
+      "seen": true,
+      "caught": true
+    },
+    "285": {
+      "seen": true,
+      "caught": true
+    },
+    "287": {
+      "seen": true,
+      "caught": true
+    },
+    "290": {
+      "seen": true,
+      "caught": true
+    },
+    "328": {
+      "seen": true,
+      "caught": true
+    },
+    "333": {
+      "seen": true,
+      "caught": true
+    },
+    "343": {
+      "seen": true,
+      "caught": true
+    },
+    "366": {
+      "seen": true,
+      "caught": true
+    },
+    "396": {
+      "seen": true,
+      "caught": true
+    },
+    "399": {
+      "seen": true,
+      "caught": true
+    },
+    "401": {
+      "seen": true,
+      "caught": true
+    },
+    "406": {
+      "seen": true,
+      "caught": true
+    },
+    "436": {
+      "seen": true,
+      "caught": true
+    },
+    "438": {
+      "seen": true,
+      "caught": true
+    },
+    "504": {
+      "seen": true,
+      "caught": true
+    },
+    "506": {
+      "seen": true,
+      "caught": true
+    },
+    "509": {
+      "seen": true,
+      "caught": true
+    },
+    "519": {
+      "seen": true,
+      "caught": true
+    },
+    "540": {
+      "seen": true,
+      "caught": true
+    },
+    "659": {
+      "seen": true,
+      "caught": true
+    },
+    "664": {
+      "seen": true,
+      "caught": true
+    },
+    "731": {
+      "seen": true,
+      "caught": true
+    },
+    "732": {
+      "seen": true,
+      "caught": true
+    },
+    "734": {
+      "seen": true,
+      "caught": true
+    },
+    "821": {
+      "seen": true,
+      "caught": true
+    },
+    "824": {
+      "seen": true,
+      "caught": true
+    },
+    "827": {
+      "seen": true,
+      "caught": true
+    },
+    "831": {
+      "seen": true,
+      "caught": true
+    },
+    "843": {
+      "seen": true,
+      "caught": true
+    },
+    "928": {
+      "seen": true,
+      "caught": true
+    },
+    "932": {
+      "seen": true,
+      "caught": true
+    },
+    "960": {
+      "seen": true,
+      "caught": true
+    }
+  },
+  "trainer": {
+    "grassExp": 29400
+  },
+  "updatedAt": "2026-08-21",
+  "exp": {
+    "commitOwn": 250,
+    "commitExternal": 600,
+    "mergeOwn": 300,
+    "mergeExternal": 3000
+  }
+}

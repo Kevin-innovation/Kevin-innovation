@@ -9,6 +9,13 @@
 📍 South Korea · DLAB
 
 <!-- POKEREPO:START -->
+<table>
+<tr>
+<td align="center" width="880"><a href="https://wantaekchoi.github.io/pokerepo/?u=Kevin-innovation&m=843" title="Silicobra in the Dex"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png" width="64" height="64" alt="silicobra"></a><br><a href="https://wantaekchoi.github.io/pokerepo/?u=Kevin-innovation&m=843"><b>Silicobra</b></a><br><sub>Lv.19</sub><br><sub><a href="https://github.com/Kevin-innovation/Kevin-innovation" title="Kevin-innovation/Kevin-innovation">Kevin-innov…</a></sub></td>
+</tr>
+</table>
+
+<sub><a href="https://wantaekchoi.github.io/pokerepo/?u=Kevin-innovation">Kevin-innovation's Dex</a></sub>
 <!-- POKEREPO:END -->
 
 </div>
