@@ -222,15 +222,15 @@
       "mon": 261
     },
     "Kevin-innovation/Kevin-innovation": {
-      "exp": 7750,
+      "exp": 8250,
       "caught": true,
       "species": 506,
       "stars": 1,
-      "commits": 31,
+      "commits": 33,
       "merges": 0,
       "alive": true,
-      "level": 19,
-      "mon": 506
+      "level": 22,
+      "mon": 507
     },
     "Kevin-innovation/kevin-s-dashboard": {
       "exp": 0,
@@ -600,6 +600,10 @@
       "caught": true
     },
     "506": {
+      "seen": true,
+      "caught": true
+    },
+    "507": {
       "seen": true,
       "caught": true
     },
