@@ -224,13 +224,13 @@
     "Kevin-innovation/Kevin-innovation": {
       "exp": 7750,
       "caught": true,
-      "species": 843,
+      "species": 506,
       "stars": 1,
       "commits": 31,
       "merges": 0,
       "alive": true,
       "level": 19,
-      "mon": 843
+      "mon": 506
     },
     "Kevin-innovation/kevin-s-dashboard": {
       "exp": 0,
@@ -301,13 +301,13 @@
     "Kevin-innovation/no-smartphone": {
       "exp": 0,
       "caught": true,
-      "species": 506,
+      "species": 843,
       "stars": 0,
       "commits": 0,
       "merges": 0,
       "alive": true,
       "level": 1,
-      "mon": 506
+      "mon": 843
     },
     "Kevin-innovation/Perfect-Pitch-Test": {
       "exp": 0,

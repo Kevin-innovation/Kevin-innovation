@@ -11,3 +11,5 @@ jobs:
       - uses: wantaekchoi/pokerepo@v1
         with:
           party: "1"
+          # Keep README card as Lillipup; Dex still updates from trainer.json
+          readme: ".github/pokerepo-card.md"
