@@ -8,6 +8,9 @@
 
 📍 South Korea · DLAB
 
+<!-- POKEREPO:START -->
+<!-- POKEREPO:END -->
+
 </div>
 
 ---
