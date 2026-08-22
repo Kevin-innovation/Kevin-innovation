@@ -484,6 +484,17 @@
       "alive": true,
       "level": 7,
       "mon": 664
+    },
+    "Kevin-innovation/chess_review": {
+      "exp": 0,
+      "caught": true,
+      "species": 265,
+      "stars": 0,
+      "commits": 0,
+      "merges": 0,
+      "alive": true,
+      "level": 1,
+      "mon": 265
     }
   },
   "dex": {
@@ -536,6 +547,10 @@
       "caught": true
     },
     "263": {
+      "seen": true,
+      "caught": true
+    },
+    "265": {
       "seen": true,
       "caught": true
     },
@@ -673,9 +688,9 @@
     }
   },
   "trainer": {
-    "grassExp": 29400
+    "grassExp": 29500
   },
-  "updatedAt": "2026-08-21",
+  "updatedAt": "2026-08-22",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
