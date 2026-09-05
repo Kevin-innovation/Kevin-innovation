@@ -506,6 +506,17 @@
       "alive": true,
       "level": 23,
       "mon": 524
+    },
+    "Kevin-innovation/spin-sphere": {
+      "exp": 750,
+      "caught": true,
+      "species": 349,
+      "stars": 0,
+      "commits": 3,
+      "merges": 0,
+      "alive": true,
+      "level": 7,
+      "mon": 349
     }
   },
   "dex": {
@@ -590,6 +601,10 @@
       "caught": true
     },
     "343": {
+      "seen": true,
+      "caught": true
+    },
+    "349": {
       "seen": true,
       "caught": true
     },
@@ -703,9 +718,9 @@
     }
   },
   "trainer": {
-    "grassExp": 31500
+    "grassExp": 31950
   },
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-05",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
