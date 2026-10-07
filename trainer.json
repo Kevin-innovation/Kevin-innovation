@@ -541,15 +541,15 @@
       "mon": 543
     },
     "Kevin-innovation/meta-slash": {
-      "exp": 9000,
+      "exp": 22750,
       "caught": true,
       "species": 833,
       "stars": 0,
-      "commits": 36,
+      "commits": 91,
       "merges": 0,
       "alive": true,
-      "level": 20,
-      "mon": 833
+      "level": 28,
+      "mon": 834
     }
   },
   "dex": {
@@ -745,6 +745,10 @@
       "seen": true,
       "caught": true
     },
+    "834": {
+      "seen": true,
+      "caught": true
+    },
     "843": {
       "seen": true,
       "caught": true
@@ -763,9 +767,9 @@
     }
   },
   "trainer": {
-    "grassExp": 38000
+    "grassExp": 35250
   },
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
