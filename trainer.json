@@ -550,6 +550,17 @@
       "alive": false,
       "level": 28,
       "mon": 834
+    },
+    "Kevin-innovation/virtual_science_room-VSR": {
+      "exp": 750,
+      "caught": true,
+      "species": 60,
+      "stars": 0,
+      "commits": 3,
+      "merges": 0,
+      "alive": true,
+      "level": 11,
+      "mon": 60
     }
   },
   "dex": {
@@ -588,6 +599,10 @@
     "52": {
       "seen": true,
       "caught": false
+    },
+    "60": {
+      "seen": true,
+      "caught": true
     },
     "163": {
       "seen": true,
@@ -767,9 +782,9 @@
     }
   },
   "trainer": {
-    "grassExp": 24900
+    "grassExp": 25000
   },
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
