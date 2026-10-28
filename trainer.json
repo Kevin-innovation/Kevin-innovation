@@ -552,14 +552,14 @@
       "mon": 834
     },
     "Kevin-innovation/virtual_science_room-VSR": {
-      "exp": 750,
+      "exp": 2250,
       "caught": true,
       "species": 60,
       "stars": 0,
-      "commits": 3,
+      "commits": 9,
       "merges": 0,
       "alive": true,
-      "level": 11,
+      "level": 15,
       "mon": 60
     }
   },
@@ -784,7 +784,7 @@
   "trainer": {
     "grassExp": 30250
   },
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
