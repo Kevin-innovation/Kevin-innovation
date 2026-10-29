@@ -519,14 +519,14 @@
       "mon": 349
     },
     "Kevin-innovation/GPH_private": {
-      "exp": 10000,
+      "exp": 10250,
       "caught": true,
       "species": 535,
       "stars": 0,
-      "commits": 40,
+      "commits": 41,
       "merges": 0,
       "alive": true,
-      "level": 23,
+      "level": 24,
       "mon": 535
     },
     "Kevin-innovation/dlab-cameleon": {
@@ -782,9 +782,9 @@
     }
   },
   "trainer": {
-    "grassExp": 30250
+    "grassExp": 30350
   },
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "exp": {
     "commitOwn": 250,
     "commitExternal": 600,
